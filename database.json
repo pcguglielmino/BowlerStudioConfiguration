@@ -1,8 +1,15 @@
 {
   "studio-open-web": {},
+  "studio-open-git": {
+    "https://gist.github.com/3288580ed3ad350f2b57501f2efa8773.git:Rook.groovy": [
+      "https://gist.github.com/3288580ed3ad350f2b57501f2efa8773.git",
+      "Rook.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
-    "fontsize": 12.0,
-    "skinBranch": "0.25.2",
+    "firstVersion": "0.29.2",
+    "fontsize": 28,
+    "skinBranch": "0.29.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
