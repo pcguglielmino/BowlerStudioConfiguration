@@ -1,6 +1,10 @@
 {
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/3288580ed3ad350f2b57501f2efa8773.git:Rook.groovy": [
+      "https://gist.github.com/3288580ed3ad350f2b57501f2efa8773.git",
+      "Rook.groovy"
+    ],
     "https://gist.github.com/5cc4da36aea71d278916f2700ed67aa2.git:FanCages.groovy": [
       "https://gist.github.com/5cc4da36aea71d278916f2700ed67aa2.git",
       "FanCages.groovy"
