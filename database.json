@@ -1,6 +1,10 @@
 {
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/5cc4da36aea71d278916f2700ed67aa2.git:FanCages.groovy": [
+      "https://gist.github.com/5cc4da36aea71d278916f2700ed67aa2.git",
+      "FanCages.groovy"
+    ],
     "https://gist.github.com/7ff697ccefb64beb65b3985f34d4ff13.git:MyNametags.groovy": [
       "https://gist.github.com/7ff697ccefb64beb65b3985f34d4ff13.git",
       "MyNametags.groovy"
