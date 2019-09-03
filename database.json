@@ -1,18 +1,6 @@
 {
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/3288580ed3ad350f2b57501f2efa8773.git:Rook.groovy": [
-      "https://gist.github.com/3288580ed3ad350f2b57501f2efa8773.git",
-      "Rook.groovy"
-    ],
-    "https://gist.github.com/5cc4da36aea71d278916f2700ed67aa2.git:FanCages.groovy": [
-      "https://gist.github.com/5cc4da36aea71d278916f2700ed67aa2.git",
-      "FanCages.groovy"
-    ],
-    "https://gist.github.com/b4d02bfff3642ac7899bd7b0e4a27bfb.git:BNO055Visualizer.groovy": [
-      "https://gist.github.com/b4d02bfff3642ac7899bd7b0e4a27bfb.git",
-      "BNO055Visualizer.groovy"
-    ],
     "https://gist.github.com/7ff697ccefb64beb65b3985f34d4ff13.git:MyNametags.groovy": [
       "https://gist.github.com/7ff697ccefb64beb65b3985f34d4ff13.git",
       "MyNametags.groovy"
