@@ -1,11 +1,6 @@
 {
   "studio-open-web": {},
-  "studio-open-git": {
-    "https://gist.github.com/7ff697ccefb64beb65b3985f34d4ff13.git:MyNametags.groovy": [
-      "https://gist.github.com/7ff697ccefb64beb65b3985f34d4ff13.git",
-      "MyNametags.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.29.2",
     "fontsize": 28.0,
